@@ -1,4 +1,4 @@
-Changed Challenge Week 1
+Changed 2 times Challenge Week 1
 ---
 Please follow the next steps and make sure you provide the requested results to your Maverick Mentor.
 
