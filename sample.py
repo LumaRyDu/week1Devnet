@@ -21,3 +21,5 @@ if __name__ == "__main__":
     foo()
     bar()
     logging.warning("EXITING!")
+
+    print("marialde")
